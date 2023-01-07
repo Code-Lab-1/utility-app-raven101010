@@ -116,7 +116,7 @@ def ordering():
 
     #if slot number that doesnt exist is inputed, funds are given back the start over 
     if chosen_item >= 10 or chosen_item <= 0:
-      print('Input a valid slot number\nfunds has been realsed\n')
+      print('Input a valid slot number\nfunds has been released\n')
       ordering()
 
     cost = []
