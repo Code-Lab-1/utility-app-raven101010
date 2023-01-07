@@ -21,7 +21,7 @@ snacks = [
 {'item_slot': 4, 
  'item_name': 'Twix', 
  'item_cost': 3,
- 'item_stock': 10,
+ 
  },
 
 {'item_slot': 5, 
